@@ -1,11 +1,10 @@
 # 學校資料管理系統
 
-## 系統架構與環境
-# 系統架構
+## 系統架構
 ![image](https://github.com/LinChiaEn/StudentDatabase/assets/93340978/a7ed8996-0ba6-4e22-ba2a-ab178f5c3193)
-# 環境
+## 環境
 android studio、visual studio code
-# 語言
+## 語言
 Dart
 
 ## 介面截圖與使用說明
